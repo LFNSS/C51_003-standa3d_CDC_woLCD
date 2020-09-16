@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# etc
+*.lst
+*.uvgui*
+*.lnp
+*uvopt
+*.M51
+*.htm
+c51_cdc
