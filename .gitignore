@@ -58,4 +58,6 @@ dkms.conf
 *uvopt
 *.M51
 *.htm
-c51_cdc
+standa3d_woLCD
+*lnp
+*SBR
